@@ -7,7 +7,7 @@ Rozwiązaniu układu równań liniowych dwóch zmiennych.
 ## Opis
 Nasz układ będzie ograniczony do dwóch zmiennych a0 i a1:
 
-![macierze](https://github.com/malinowakrew/numerical_methods/tree/master/aproksymacja/macierze.png)
+![macierze](https://github.com/malinowakrew/numerical_methods/blob/master/aproksymacja/macierze.png)
 gdzie:
 n - ilość danych wejściowych (znanych)
 
